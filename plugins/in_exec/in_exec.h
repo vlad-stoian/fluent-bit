@@ -26,7 +26,7 @@
 
 #include <msgpack.h>
 
-#define DEFAULT_BUF_SIZE      4096
+#define DEFAULT_BUF_SIZE      4194304
 #define DEFAULT_INTERVAL_SEC  1
 #define DEFAULT_INTERVAL_NSEC 0
 
